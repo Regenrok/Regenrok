@@ -1,0 +1,2 @@
+rainStatus = True
+haveUmbrella = False
